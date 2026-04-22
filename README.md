@@ -35,3 +35,15 @@ Designed for performance, smooth animations, and a premium gym/fitness brand fee
 ---
 
 ## 📂 Project Structure
+
+ironcore-fitness/
+│
+├── assets/
+│ ├── css/
+│ │ └── style.css
+│ ├── images/
+│ └── scripts/
+│ └── main.js
+│
+├── index.html
+└── README.md
